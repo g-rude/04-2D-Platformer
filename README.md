@@ -12,7 +12,7 @@ Health
 Lives
 Pause and resume
 Multiple unique levels
-Two types of enemies (One that chases you and one on a set path
+Two types of enemies (One that chases you and one on a set path)
 An end game menu that offers you to play again or quit
 
 ## References
